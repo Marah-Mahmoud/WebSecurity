@@ -1,6 +1,5 @@
-/*https://github.com/Marah-Mahmoud/WebSecurity/blob/main/Ass_1.php*/
 <?php
-    
+   /*https://github.com/Marah-Mahmoud/WebSecurity/blob/main/Ass_1.php*/ 
     $publicKey = file_get_contents("public_key.pem");
     $privateKey = file_get_contents("private_key.pem");
 
